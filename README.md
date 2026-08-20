@@ -37,6 +37,4 @@ A Full-Stack navigation application that models the University of Illinois Chica
 
 ---
 
-## 🔒 Security Note
-*Proprietary map data files and active Mapbox access keys have been scrubbed or omitted from this public repository to protect university network assets and maintain academic integrity guidelines.*
 
